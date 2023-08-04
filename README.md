@@ -1,4 +1,4 @@
-# Optical Character Recognition App
+# Optical Character Recognition and Layout Analysis App
 
 This project demonstrates a simple web application built using Streamlit that allows users to upload images or PDF files (converted to images) and extract text from them using OCR (Optical Character Recognition).
 
